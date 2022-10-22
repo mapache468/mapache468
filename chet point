@@ -1,0 +1,7 @@
+echo "# mapache468" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/mapache468/mapache468.git
+ git push - u origen principal
